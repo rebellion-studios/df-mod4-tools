@@ -4,14 +4,14 @@
 
 I downloaded the NSRL hash database from the provided link. Then I went to ```Tools``` and then ```Options``` and then ```Hash Sets``` and then imported the database.
 
-[IMAGE GOES hERE]
+[IMAGE_GOES_HERE]
 
 
 
 
 ## Exercise 2
 
-[EXPLAIN WHY THIS IS HELPFUL]
+This allows you to view file types by exensions and then tag them. You can then generate a report in excel based on those files. The hashes can then be copied into Autopsy to create a database of selected files.
 
 excel.png
 
@@ -39,6 +39,7 @@ I wasn't able to figure out how to load the file and shift the bits with Autopsy
 
 Then I shifted things over (See what I did there?) to the updated exercise. Things went a lot smoother. It's a shame that Hex Workshop and WinHex didn't work for these. Old and new files have been kept.
 
+[ADD IMAGES HERE]
 
 
 
@@ -51,3 +52,6 @@ At first I tried to download a program that could do the work. But I couldn't fi
 | 9e89895d350e5fdac013006b2acb067f8516149cdf7e952b021ff0326718ab70 |   783425 |
 | af95a5393589cace29a63eead5328f1647a8bc62b5ef18b023c574484a877ced |   783436 |
 | 30fc150e7c8b42dd86b1bb6e67ee256be8230969bb37cc111749e87af383ae82 |   783457 |
+
+[ADD_IMAGES_HERE]
+
