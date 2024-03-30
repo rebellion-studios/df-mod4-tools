@@ -8,8 +8,9 @@
 ## Exercise 2
 
 [EXPLAIN WHY THIS IS HELPFUL]
-
-[](exercise-2/excel.png)
+x
+[?](exercise-2/excel.png)
+x
 
 excel.png
 
