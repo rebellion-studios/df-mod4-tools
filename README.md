@@ -12,9 +12,9 @@ I downloaded the NSRL hash database from the provided link. Then I went to ```To
 ## Exercise 2
 
 This allows you to view file types by exensions and then tag them. You can then generate a report in excel based on those files. The hashes can then be copied into Autopsy to create a database of selected files.
-
+1
 ![](exercise-2/excel.png)
-
+2
 ![](https://github.com/rebellion-studios/df-mod4-tools/exercise-2/excel.png)
 
 
