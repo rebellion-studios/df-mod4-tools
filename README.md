@@ -10,6 +10,9 @@
 [EXPLAIN WHY THIS IS HELPFUL]
 x
 [?](exercise-2/excel.png)
+![alt text](https://github.com/rebellion-studios/df-mod4-tools/exercise-2/excel.png)
+
+
 x
 
 excel.png
